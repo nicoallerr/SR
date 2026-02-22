@@ -1,5 +1,5 @@
 def main():
-    print("Hello from spotify-recommender-it0!")
+    print("IT-O Sistemas recomendadores")
 
 
 if __name__ == "__main__":
