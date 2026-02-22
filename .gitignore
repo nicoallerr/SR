@@ -37,7 +37,7 @@ src/models/
 # Dataset de juguete descartado
 data/raw/toy_dataset/
 
-# 🛑 IMPORTANTE: Archivos ignorados por superar el límite de 100MB de GitHub
+# Archivos ignorados por superar el límite de 100MB de GitHub
 data/raw/spotify_train_dataset.zip
 data/processed/user_item_matrix.npz
 data/processed/track_to_idx.json
