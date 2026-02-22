@@ -1,0 +1,11 @@
+{
+    "nombre_equipo": "Equipo_Cousillas_Paz_Aller",
+    "dimensiones": {
+        "playlists": 990000,
+        "canciones_unicas": 2262292
+    },
+    "elementos_no_nulos": 64767209,
+    "densidad_porcentaje": "0.002892%",
+    "promedio_canciones_por_playlist": "65.42",
+    "archivo_origen": "spotify_train_dataset.zip"
+}

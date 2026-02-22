@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+.uv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# MacOS/Windows
+.DS_Store
+Thumbs.db
+
+# ---------------------------------------------------
+# Exclusiones específicas del proyecto (Iteración 0)
+# ---------------------------------------------------
+
+# No usamos la carpeta de modelos en esta fase:
+src/models/
+
+# Dataset de juguete descartado
+data/raw/toy_dataset/
+
+# 🛑 IMPORTANTE: Archivos ignorados por superar el límite de 100MB de GitHub
+data/raw/spotify_train_dataset.zip
+data/processed/user_item_matrix.npz
+data/processed/track_to_idx.json
+data/processed/popular_tracks.json
+data/raw/spotify_test_playlists.zip
+data/raw/sample_submission.zip
+submissions/iteracion_0_baseline.csv

@@ -1,0 +1,13 @@
+{
+    "equipo": "Jacobo_Cousillas_Xaime_Paz_Nicolas_Aller",
+    "metodo": "Popularity Baseline (Iteración 0)",
+    "estadisticas": {
+        "playlists_procesadas": 10000,
+        "recomendaciones_por_playlist": 500,
+        "tiempo_ejecucion_segundos": 8.97
+    },
+    "archivos_utilizados": {
+        "entrenamiento": "user_item_matrix.npz",
+        "test_input": "test_input_playlists.json"
+    }
+}
