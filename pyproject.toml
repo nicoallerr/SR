@@ -5,7 +5,7 @@ description = "Spotify Million Playlist Challenge - Iteration 0: Popularity-base
 readme = "README.md"
 requires-python = ">=3.8"
 authors = [
-    {name = "Nicolas Aller", email = "nicolas.aller@udc.es"}
+    {name = "Nicolas Aller, Jacobo Cousillas, Xaime Paz Ollero", email = "nicolas.aller@udc.es, jacobo.cousillas@udc.es, xaime.paz.ollero@udc.es"}
 ]
 dependencies = [
 "numpy",
